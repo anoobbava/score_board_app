@@ -1,4 +1,4 @@
-# score_board_app
+# score board app
 
 This is a simple application to display the result of the user. intially it will be a skeletal app and finally it will be added using the Vue JS used App.
 the main Functionalities are give below.
