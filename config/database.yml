@@ -1,0 +1,22 @@
+test:
+  adapter: postgresql
+  encoding: utf8
+  database: score_board_test
+  timeout: 5000
+  username: root
+  password: root
+  host: localhost
+
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: score_board_dev
+  timeout: 5000
+  username: root
+  password: root
+  # adapter: postgresql
+  # encoding: unicode
+  # database: factum_development1
+  # username: postgres
+  # password: root
+  host: localhost
